@@ -3,6 +3,10 @@ title: "Publications"
 toc: false
 ---
 
+::: {.callout-tip}
+Please visit my [google scholar](https://scholar.google.com/citations?user=xB64MDUAAAAJ) for a full list of publications.
+:::
+
 1. **Ru J**, Li P, Wang J, Zhou W, Li B, Huang C, Li P, Guo Z, Tao W, Yang Y, Xu X. TCMSP: a database of systems pharmacology for drug discovery from herbal medicines. Journal of cheminformatics. 2014 Dec;6:1-6.
 
 2. **Ru J**, Khan Mirzaei M, Xue J, Peng X, Deng L. ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis. Gut Microbes. 2023 Dec 31;15(1):2192522.

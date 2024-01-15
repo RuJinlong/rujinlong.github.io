@@ -12,7 +12,7 @@ website:
       - href: tools.qmd
         text: Software & Database
   page-footer:
-    left: "© 2023 personal website. Powered by <a href='https://quarto.org/'>Quarto</a>."
+    left: "© 2024 personal website."
     right:
       - icon: github
         href: https://github.com/rujinlong

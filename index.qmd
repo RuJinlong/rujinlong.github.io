@@ -6,6 +6,9 @@ toc: false
 about:
   template: jolla
   links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rujinlong/
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com/citations?user=xB64MDUAAAAJ
@@ -17,15 +20,4 @@ about:
       href: https://twitter.com/JinlongRu
 ---
 
-
-Hi! My name is Jinlong Ru. I am a Post-doc researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research interests include discovering novel drugs from natural products, phage therapy for combating microbial infections, and analyzing metagenomics data. My current work involves studying phage-host interactions using a multi-omics approach, as well as developing tools for viromics data analysis.
-
-## Education
-
-Technical University of Munich / HMGU • Germany \| Post-doc in Bioinformatics \| 2023.08 -
-
-Technical University of Munich / HMGU • Germany \| PhD in Bioinformatics \| 2015.10 - 2023.07
-
-Northwest A&F University • China \| M.S in Bioinformatics \| 2012.09 - 2015.07
-
-Northwest A&F University • China \| B.A in Biotechnology \| 2008.09 - 2012.07
+Hi! My name is Jinlong Ru. I am a postdoctoral researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research focuses on the intersection of natural product drug discovery, phage therapy, and metagenomics. Currently, I am exploring the use of advanced viromics to identify novel bacteriophages, which holds promise in combating microbial infections. My work also involves developing tools for efficient viromics data analysis, aimed at enhancing our understanding of phage-host dynamics and facilitating new therapeutic discoveries.
